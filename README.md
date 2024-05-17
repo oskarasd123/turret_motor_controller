@@ -29,4 +29,4 @@ l [byte]\n to set laser brightness
 example:
 y 1000 \n
 x 10000 \n
-l 255 \n"
+a 0.012 \n"
