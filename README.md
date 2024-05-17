@@ -1,7 +1,7 @@
 # turret_motor_controller
 Arduino code for controlling 2 steper-motors and a laser.
 
-# communication
+# COMMUNICATION
 Arduino parses serial data.
 
 Command format is [command byte] [data] [stop byte].
